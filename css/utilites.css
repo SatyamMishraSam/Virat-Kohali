@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.btn{
+    padding: 0.4rem 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: rgb(170, 76, 173);
+}
+.btn:hover{
+    background-color: rgb(210, 255, 105);
+}
+.justify-center{
+    justify-content: center;
+}
